@@ -13,7 +13,7 @@ This project analyzes standardized test results and school data for a city's sch
 - school_data.csv
 - student_data.csv
 
-## Key Metrics and Analysis
+## Key Metrics
 - District Summary
 - School Summary
 - Highest-Performing Schools
