@@ -32,10 +32,10 @@ When schools invest more resources per student, like increasing budgets and prov
 better academic outcomes, this highlights the vital importance of having sufficient funding to provide the necessary resources and support
 for enhancing student success in schools.
 
-*Charter and district schools show varying levels of academic performance. Identifying the top-performing and underperforming schools helps
+* Charter and district schools show varying levels of academic performance. Identifying the top-performing and underperforming schools helps
 us understand what strategies are effective and what areas need improvement.
 
-*Examining factors affecting results highlights the crucial role of data-driven decisions in education, ensuring fairness and equal opportunities
+* Examining factors affecting results highlights the crucial role of data-driven decisions in education, ensuring fairness and equal opportunities
 for all students to maximize their potential.
 
 ## Contributing
